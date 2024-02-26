@@ -2,7 +2,7 @@
 
 ![Admin login](https://github.com/Emircan-Bagdu52/DiziYorumProje/assets/95845060/669c096f-a8af-441d-9094-678812d64199)
 
-Admin Bloglar</h2>
+<h2>Admin Bloglar</h2>
 
 ![Admin Bloglar](https://github.com/Emircan-Bagdu52/DiziYorumProje/assets/95845060/ca62da21-1b75-42c5-8423-30564e185774)
 
